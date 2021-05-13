@@ -1,0 +1,11 @@
+.info {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 700px;
+    padding: 0 20px;
+}
+.info__time,.info__tries {
+    font-size: 50px;
+    font-weight:bold;
+}

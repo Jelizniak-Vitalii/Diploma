@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "name": "crane",
+        "src": "./img/cards/crane.jpg",
+        "value": false
+     },
+     {
+         "id": 2,
+         "name": "crane",
+         "src": "./img/cards/crane.jpg",
+         "value": false
+      },
+     {
+         "id": 3,
+         "name": "kai",
+         "src": "./img/cards/kai.jpg",
+         "value": false
+      },
+      {
+         "id": 4,
+         "name": "kai",
+         "src": "./img/cards/kai.jpg",
+         "value": false
+      },
+      {
+         "id": 5,
+         "name": "mantis",
+         "src": "./img/cards/mantis.jpg",
+         "value": false
+      },
+      {
+         "id": 6,
+         "name": "mantis",
+         "src": "./img/cards/mantis.jpg",
+         "value": false
+      },
+      {
+         "id": 7,
+         "name": "monkey",
+         "src": "./img/cards/monkey.jpg",
+         "value": false
+      },
+      {
+         "id": 8,
+         "name": "monkey",
+         "src": "./img/cards/monkey.jpg",
+         "value": false
+      },
+      {
+         "id": 9,
+         "name": "mr_ping",
+         "src": "./img/cards/mr_ping.jpg",
+         "value": false
+      },
+      {
+         "id": 10,
+         "name": "mr_ping",
+         "src": "./img/cards/mr_ping.jpg",
+         "value": false
+      },
+      {
+         "id": 11,
+         "name": "oogway",
+         "src": "./img/cards/oogway.jpg"
+      },
+      {
+         "id": 12,
+         "name": "oogway",
+         "src": "./img/cards/oogway.jpg"
+      },
+      {
+         "id": 13,
+         "name": "po",
+         "src": "./img/cards/po.jpg"
+      },
+      {
+         "id": 14,
+         "name": "po",
+         "src": "./img/cards/po.jpg"
+      },
+      {
+         "id": 15,
+         "name": "shifu",
+         "src": "./img/cards/shifu.jpg"
+      },
+      {
+         "id": 16,
+         "name": "shifu",
+         "src": "./img/cards/shifu.jpg"
+      },
+      {
+         "id": 17,
+         "name": "tai_loong",
+         "src": "./img/cards/tai_loong.jpg"
+      },
+      {
+         "id": 18,
+         "name": "tai_loong",
+         "src": "./img/cards/tai_loong.jpg"
+      },
+      {
+         "id": 19,
+         "name": "tigress",
+         "src": "./img/cards/tigress.jpg"
+      },
+      {
+         "id": 20,
+         "name": "tigress",
+         "src": "./img/cards/tigress.jpg"
+      },
+      {
+         "id": 21,
+         "name": "vachir",
+         "src": "./img/cards/vachir.jpg"
+      },
+      {
+         "id": 22,
+         "name": "vachir",
+         "src": "./img/cards/vachir.jpg"
+      },
+      {
+         "id": 23,
+         "name": "viper",
+         "src": "./img/cards/viper.jpg"
+      },
+      {
+         "id": 24,
+         "name": "viper",
+         "src": "./img/cards/viper.jpg"
+      }
+]
+
+
+
